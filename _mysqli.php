@@ -6,7 +6,7 @@
 
 		public $password = '';
 
-		public $server = 'localhost';
+		public $server = 'localhosts';
 
 		public $db = 'db_escardas_trading';
 
