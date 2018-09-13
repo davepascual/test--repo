@@ -17,7 +17,10 @@
 			parent::__construct($this->server,$this->username, $this->password, $this->db);
 		}
 
-		
+		function new_added_function($param1, $param2)
+		{
+			echo "Hello WOrld";
+		}
 
 	}
 
